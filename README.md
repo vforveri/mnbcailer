@@ -1,17 +1,3 @@
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://supportukrainenow.org/)
-
-![PHPMailer](https://raw.github.com/PHPMailer/PHPMailer/master/examples/images/phpmailer.png)
-
-# PHPMailer – A full-featured email creation and transfer class for PHP
-
-[![Test status](https://github.com/PHPMailer/PHPMailer/workflows/Tests/badge.svg)](https://github.com/PHPMailer/PHPMailer/actions)
-[![codecov.io](https://codecov.io/gh/PHPMailer/PHPMailer/branch/master/graph/badge.svg?token=iORZpwmYmM)](https://codecov.io/gh/PHPMailer/PHPMailer)
-[![Latest Stable Version](https://img.shields.io/packagist/v/phpmailer/phpmailer?label=stable)](https://packagist.org/packages/phpmailer/phpmailer)
-[![Total Downloads](https://img.shields.io/packagist/dt/phpmailer/phpmailer)](https://packagist.org/packages/phpmailer/phpmailer)
-[![License](https://img.shields.io/github/license/PHPMailer/PHPMailer)](https://packagist.org/packages/phpmailer/phpmailer)
-[![API Docs](https://github.com/phpmailer/phpmailer/workflows/Docs/badge.svg)](https://phpmailer.github.io/PHPMailer/)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/PHPMailer/PHPMailer/badge)](https://api.securityscorecards.dev/projects/github.com/PHPMailer/PHPMailer)
-
 ## Features
 - Probably the world's most popular code for sending email from PHP!
 - Used by many open-source projects: WordPress, Drupal, 1CRM, SugarCRM, Yii, Joomla! and many more
@@ -196,8 +182,6 @@ Please *don't* use the SourceForge or Google Code projects any more; they are ob
 
 ## Sponsorship
 Development time and resources for PHPMailer are provided by [Smartmessages.net](https://info.smartmessages.net/), the world's only privacy-first email marketing system.
-
-<a href="https://info.smartmessages.net/"><img src="https://www.smartmessages.net/img/smartmessages-logo.svg" width="550" alt="Smartmessages.net privacy-first email marketing logo"></a>
 
 Donations are very welcome, whether in beer 🍺, T-shirts 👕, or cold, hard cash 💰. Sponsorship through GitHub is a simple and convenient way to say "thank you" to PHPMailer's maintainers and contributors – just click the "Sponsor" button [on the project page](https://github.com/PHPMailer/PHPMailer). If your company uses PHPMailer, consider taking part in Tidelift's enterprise support programme.
 
