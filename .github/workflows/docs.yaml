@@ -1,8 +1,11 @@
 name: Docs
+
 on:
-  push:
-    branches:
-      - master
+  workflow_dispatch:
+#  push:
+#    branches:
+#      - master
+
 permissions: {}
 jobs:
   build_and_publish:
